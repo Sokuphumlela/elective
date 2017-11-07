@@ -20,8 +20,8 @@
 
 
 [user]
-        name = Your Name
-        email = YOUR EMAIL
+        name = Sokuphumlela Nombila
+        email = nombila.s@gmail.com
 
 
 [core]
