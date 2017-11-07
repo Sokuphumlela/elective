@@ -1,9 +1,4 @@
 
-Command is
-
-xed .m2/settings.xml
-
-#===========
 
 <?xml version="1.0" encoding="UTF-8"?>
 <settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
@@ -24,13 +19,9 @@ xed .m2/settings.xml
 </settings>
 
 
-==============
-xed .gitconfig
-
-
 [user]
-        name = Your Name
-        email = YOUR EMAIL
+        name = Sokuphumlela Nombila
+        email = nombila.s@gmail.com
 
 
 [core]
